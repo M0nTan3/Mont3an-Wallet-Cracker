@@ -16,5 +16,5 @@ Unzip and run mont3an wallet cracker setup.exe
 <h2>Requirements</h2>
 OS: Windows 7 or 8 or 10 or 11<br>
 
-CPU: Code i3 gen 4 /Ryzen 3<br>
+CPU: Code i3 gen 3 /Ryzen 3<br>
 
